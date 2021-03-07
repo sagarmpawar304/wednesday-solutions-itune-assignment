@@ -1,0 +1,9 @@
+{
+  "songs_search_default": "Search for songs by entering artist name in the search box",
+  "search_query": "Search query: {artistName}",
+  "something_went_wrong": "Sorry. Something went wrong! Please try again in sometime.",
+  "songs_search": "गाने की खोज",
+  "ITunes": "ITunes",
+  "matching_results": "Total number of matching songs for an artist: {resultCount}",
+  "songs_list": "Songs List"
+}

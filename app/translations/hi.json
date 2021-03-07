@@ -1,0 +1,9 @@
+{
+  "songs_search_default": "खोज बॉक्स में कलाकार का नाम दर्ज करके गाने खोजें",
+  "search_query": "पूछताछ कीजिए: {artistName}",
+  "something_went_wrong": "माफ़ करना। कुछ गलत हो गया! कृपया कुछ समय बाद पुनः प्रयास करें।",
+  "songs_search": "गाणी शोध",
+  "ITunes": "ITunes",
+  "matching_results": "एक कलाकार के लिए गीतों की कुल संख्या:: {resultCount}",
+  "songs_list": "गाने की सूची"
+}

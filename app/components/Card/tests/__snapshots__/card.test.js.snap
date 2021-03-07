@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card> should render and match snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="ant-card ant-card-bordered Card__CardWrapper-sc-7y2i64-0 cUNHZf"
+      data-testid="card"
+    >
+      <div
+        class="ant-card-body"
+      >
+        <div
+          class="ant-card-meta"
+        >
+          <div
+            class="ant-card-meta-avatar"
+          >
+            <span
+              class="ant-avatar ant-avatar-square ant-avatar-image"
+              style="width: 70px; height: 70px; line-height: 70px; font-size: 18px;"
+            >
+              <img
+                src="https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/9c/91/83/9c918303-e0a4-2d4b-97d6-f986b9fba604/source/100x100bb.jpg"
+              />
+            </span>
+          </div>
+          <div
+            class="ant-card-meta-detail"
+          >
+            <div
+              class="ant-card-meta-title"
+            >
+              Taylor Swift
+            </div>
+            <div
+              class="ant-card-meta-description"
+            >
+              Shake It Off
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
